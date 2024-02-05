@@ -1,0 +1,25 @@
+#top-nav-bar{
+    background-color: rgb(7, 1, 1);
+    height: 9vh;
+
+    justify-content: space-between;
+    padding: 0 2rem;
+    width: 99vw;
+    border-bottom: 1px solid #909090;
+    position: fixed;
+}
+.left{
+    font-size: 2rem;
+    
+}
+.center-ele,.center-ele i{
+    font-weight: bold;
+    color: #909090;
+}
+.center-ele{
+    width: 6rem;
+
+}
+.center-ele:hover{
+    color: white;
+}
